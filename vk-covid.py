@@ -7,9 +7,9 @@ import urllib
 from bs4 import BeautifulSoup
 import re
 
-email = "guz1@bk.ru"
-passw = "Guznorodov1!2!"
-group_token = "cb6228d9d818629e028a4dc365ced552b628aba6d9a87ca1898515a9f9049ab2013bac1b22347495da59b"
+email = ""
+passw = ""
+group_token = ""
 failed_auth_messages = "[vk-covid bot] Токен больше не верен, замените его"
 a = 1
 status_id = 1
