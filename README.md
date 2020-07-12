@@ -5,17 +5,6 @@ English:
 Auto change emoticon near name<br/>
 For this you must have Python >3.7<br/>
 
-How to get a special token?
-===========================
-Follow this link https://vk.com/covid19</br>
-Press ctrl + shift + I</br>
-Go to `network`<br/>
-And click on any emoticon<br/>
-Appears `users.setCovidStatus` and click him<br/>
-We get down to form data and copy access_token<br/>
-This token works only one day<br/>
-You can also enter a group token to receive a message about the expiration of current.
-
 Linux:
 ===========
 Download Python: `sudo apt install python3.8 git`<br/>
@@ -34,19 +23,8 @@ And run script `python vk-covid.py`
 
 Русский:
 ===========
-Значит, вам нужен специальный токен<br/>
 Нам нужен Python >3.7
-
-Как получить токен?
-===================
-Перейдите по этой ссылке https://vk.com/covid19</br>
-Нажмите Ctrl + Shift + I</br>
-Перейти во вкладку `network`<br/>
-И нажмите на любой смайлик<br/>
-Появляется `users.setCovidStatus` и нажимает на него<br/>
-Спускаемся, во form data и копируем access_toke <br/>
-Этот токен работает только один день<br/>
-Вы также можете ввести групповой токен, чтобы получить сообщение в вк об истечении текущего токена.
+Вводим в файле почту и пароль
 
 Linux:
 ===========
